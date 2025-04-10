@@ -11,17 +11,25 @@ export const validate = async (_options: ValidatorOptions, newAppDir: string, fi
 
   if (await hasPackageJson(files, newAppDir)) {
     const packageJson = require(packageJsonPath(newAppDir));
+    console.log("packageJson", packageJson);
     dependsOnTypescript = packageJson.devDependencies && packageJson.devDependencies.typescript;
   }
 
+  console.log("hasTsConfig", hasTsConfig);
+  console.log("hasTsFiles", hasTsFiles);
+  console.log("dependsOnTypescript", dependsOnTypescript);
+  
   const result = hasTsConfig && hasTsFiles;
   const message =
     result && dependsOnTypescript
       ? 'TypeScript check passed'
       : 'TypeScript check failed: please include a tsconfig.json file, install typescript as a dev dependency, and include TypeScript files in your app directory';
 
+      // currently only warning about typescript validation
+      // update this when we want to enforce typescript
   return {
-    result,
+    result: true,
+    warning: message,
     message,
   };
 };
