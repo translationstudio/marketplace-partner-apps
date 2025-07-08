@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.0.4](https://github.com/contentful/marketplace-partner-apps/compare/ls-contentful-app-v1.0.3...ls-contentful-app-v1.0.4) (2025-07-02)
+
+
+### Bug Fixes
+
+* **deps:** bump the production-dependencies group in /apps/livestory with 4 updates ([#5051](https://github.com/contentful/marketplace-partner-apps/issues/5051)) ([ed8aa34](https://github.com/contentful/marketplace-partner-apps/commit/ed8aa34bb21f3ed1c2ca2cc3736ee2ebf63e4386))
+* update to node v20 [INTEG-2829] ([#5318](https://github.com/contentful/marketplace-partner-apps/issues/5318)) ([fdc406d](https://github.com/contentful/marketplace-partner-apps/commit/fdc406d9328bc6279abb658dcf5a1bf28795a449))
+
+## [1.0.3](https://github.com/contentful/marketplace-partner-apps/compare/ls-contentful-app-v1.0.2...ls-contentful-app-v1.0.3) (2025-05-28)
+
+
+### Bug Fixes
+
+* **deps:** bump superagent from 9.0.2 to 10.2.1 in /apps/livestory ([#4968](https://github.com/contentful/marketplace-partner-apps/issues/4968)) ([9a2032f](https://github.com/contentful/marketplace-partner-apps/commit/9a2032f4b1ec2f5f8a924d690aceeec93ea4595a))
+
 ## [1.0.2](https://github.com/contentful/marketplace-partner-apps/compare/ls-contentful-app-v1.0.1...ls-contentful-app-v1.0.2) (2025-01-08)
 
 

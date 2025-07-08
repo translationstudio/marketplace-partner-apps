@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.0.7](https://github.com/contentful/marketplace-partner-apps/compare/raster-v1.0.6...raster-v1.0.7) (2025-07-02)
+
+
+### Bug Fixes
+
+* **deps:** bump the production-dependencies group across 1 directory with 8 updates ([#5190](https://github.com/contentful/marketplace-partner-apps/issues/5190)) ([7dddeab](https://github.com/contentful/marketplace-partner-apps/commit/7dddeab0d4e296c28f95e9ec97d254382ba4a996))
+* update to node v20 [INTEG-2829] ([#5318](https://github.com/contentful/marketplace-partner-apps/issues/5318)) ([fdc406d](https://github.com/contentful/marketplace-partner-apps/commit/fdc406d9328bc6279abb658dcf5a1bf28795a449))
+
+## [1.0.6](https://github.com/contentful/marketplace-partner-apps/compare/raster-v1.0.5...raster-v1.0.6) (2025-05-27)
+
+
+### Bug Fixes
+
+* **deps:** bump next from 14.2.21 to 15.1.8 in /apps/raster ([#5017](https://github.com/contentful/marketplace-partner-apps/issues/5017)) ([2e0618b](https://github.com/contentful/marketplace-partner-apps/commit/2e0618bda738cc1edee590b688a3852f16114f6e))
+
 ## [1.0.5](https://github.com/contentful/marketplace-partner-apps/compare/raster-v1.0.4...raster-v1.0.5) (2025-01-08)
 
 

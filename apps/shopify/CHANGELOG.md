@@ -1,5 +1,34 @@
 # Changelog
 
+## [2.1.3](https://github.com/contentful/marketplace-partner-apps/compare/shopify-sku-v2.1.2...shopify-sku-v2.1.3) (2025-07-02)
+
+
+### Bug Fixes
+
+* **deps:** bump the production-dependencies group across 1 directory with 5 updates ([#5186](https://github.com/contentful/marketplace-partner-apps/issues/5186)) ([98d870f](https://github.com/contentful/marketplace-partner-apps/commit/98d870f6e9aa4feb86022b0c07edef2d62688ffe))
+* update to node v20 [INTEG-2829] ([#5318](https://github.com/contentful/marketplace-partner-apps/issues/5318)) ([fdc406d](https://github.com/contentful/marketplace-partner-apps/commit/fdc406d9328bc6279abb658dcf5a1bf28795a449))
+
+## [2.1.2](https://github.com/contentful/marketplace-partner-apps/compare/shopify-sku-v2.1.1...shopify-sku-v2.1.2) (2025-06-13)
+
+
+### Bug Fixes
+
+* Shopify tag searching and wildcard fixes [ZEND-6490] ([#5164](https://github.com/contentful/marketplace-partner-apps/issues/5164)) ([ea3b463](https://github.com/contentful/marketplace-partner-apps/commit/ea3b463fc2363b9fa57ee921a9eb10c95d4b8ca7))
+
+## [2.1.1](https://github.com/contentful/marketplace-partner-apps/compare/shopify-sku-v2.1.0...shopify-sku-v2.1.1) (2025-06-06)
+
+
+### Bug Fixes
+
+* sku searching fixes and wildcard fixes [INTEG-2726] ([#5137](https://github.com/contentful/marketplace-partner-apps/issues/5137)) ([d7b4b64](https://github.com/contentful/marketplace-partner-apps/commit/d7b4b64e843847539f881e3c4181ae453d3e6a96))
+
+## [2.1.0](https://github.com/contentful/marketplace-partner-apps/compare/shopify-sku-v2.0.12...shopify-sku-v2.1.0) (2025-06-04)
+
+
+### Features
+
+* document Shopify app migration to Storefront API [INTEG-2706] ([#5134](https://github.com/contentful/marketplace-partner-apps/issues/5134)) ([a6d2c6e](https://github.com/contentful/marketplace-partner-apps/commit/a6d2c6eddd953afb1345da40294dcbc4173c8968))
+
 ## [2.0.12](https://github.com/contentful/marketplace-partner-apps/compare/shopify-sku-v2.0.11...shopify-sku-v2.0.12) (2025-03-13)
 
 
